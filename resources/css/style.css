@@ -23,3 +23,8 @@ video {
 img {
   padding-top: 20px;
 }
+footer {
+  text-align: right;
+  font-color: gray;
+  font-size: 25px;
+}
